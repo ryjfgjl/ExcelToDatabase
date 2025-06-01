@@ -42,9 +42,8 @@ Whether you want one-click, batch, and personalized import and export, or want t
 
 ## Getting Help
 
-  Email1: 2577154121@qq.com
+  Email: zhangxiaobo@diluauto.com
 
-  Email2: ryjfgjl.zhang@gmail.com
 
     
 ## Usage
