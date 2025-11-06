@@ -42,7 +42,7 @@ Whether you want one-click, batch, and personalized import and export, or want t
 
 ## Getting Help
 
-  Email: zhangxiaobo@diluauto.com
+  Email: diluauto@foxmail.com
 
 
     
