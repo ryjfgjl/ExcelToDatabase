@@ -1,15 +1,14 @@
 #                                                                           DiLu Converter
-This is the documentation for [DiLu Converter](https://www.diluauto.com/en/).
+This is the documentation for [ExcelToDatabase](https://www.diluauto.com/en/).
 
-<img width="959" alt="微信图片_20250325221230" src="https://github.com/user-attachments/assets/04579f67-f0e2-4ed7-bb62-24c947ec7271" />
+<img width="1811" height="1008" alt="exceltodatabase" src="https://github.com/user-attachments/assets/a64f7656-59e1-45ea-b12e-285868936348" />
+
 
 
 
 
 ## What is it?
-**DiLu Converter** is a powerful Excel import and export tool that supports more than 10 databases such as MySQL, Oracle, SQL Server, PostgreSQL and so on.
-The supported file formats include xls, xlsx, xlsm, xlsb, csv, txt, xml, json, and dbf. Its native user interface brings users a comfortable experience of simplified Excel import and export, making Excel import and export easier than ever before.
-Whether you want one-click, batch, and personalized import and export, or want to use scheduled tasks to achieve unattended full automation, DiLu Converter can bring you unprecedented productivity improvement.
+**ExcelToDatabase** is an automated tool for batch-importing Excel data into a database. It supports 10 popular databases including MySQL, Oracle, SQL Server, PostgreSQL, and so on. Supported file formats include xls, xlsx, xlsm, xlsb, csv, txt, xml, json, and dbf. Its native user interface brings users a comfortable experience for simplified Excel import and export, making it easier than ever before. Whether you want one-click, batch, or personalized import/export, or use scheduled tasks for unattended full automation, ExcelToDatabase delivers unprecedented productivity improvements.
 
 ## Features
 ### Safe
@@ -38,17 +37,19 @@ Whether you want one-click, batch, and personalized import and export, or want t
 
 ## Where to get it
 
-  [DiLu Converter Official Website](https://www.diluauto.com/en/)
+  [ExcelToDatabase Official Website](https://www.diluauto.com/en/)
 
 ## Getting Help
 
-  Email: diluauto@foxmail.com
+Email1: diluauto@foxmail.com
+Email2: ryjfgjl.zhang@gmail.com
+WeChat: ryjfgjl
 
 
     
 ## Usage
 
-1. Click DiLuConverter.exe to start the program
+1. Click exe to start the program
 2. Create a new database connection
 3. Create a new configuration after the database connection is successful.
 4. Select the Excel to be imported, the target table and the import mode (required)
@@ -58,9 +59,9 @@ Whether you want one-click, batch, and personalized import and export, or want t
 ## API
 The tool provides API capabilities that can be called by other applications for background import without a graphical interface.
 
-For example: DiLuConverter.exe import/export/sync/job "Test connection 1" "Test configuration 1"
+For example: ExcelToDatabase.exe import/export/sync/job "Test connection 1" "Test configuration 1"
 
-Command: DiLuConverter.exe
+Command: ExcelToDatabase.exe
 
 Parameter 1: import/export/sync/job--execute type
 
