@@ -1,4 +1,4 @@
-#                                                                           DiLu Converter
+#                                                                          ExcelToDatabase
 This is the documentation for [ExcelToDatabase](https://www.diluauto.com/en/).
 
 <img width="1811" height="1008" alt="exceltodatabase" src="https://github.com/user-attachments/assets/a64f7656-59e1-45ea-b12e-285868936348" />
